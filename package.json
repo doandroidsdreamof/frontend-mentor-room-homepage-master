@@ -2,7 +2,7 @@
   "name": "room-homepage-master",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://{doandroidsdreamof}/github.io/frontend-mentor-room-homepage-master/",
+  "homepage": "https://doandroidsdreamof.github.io/frontend-mentor-room-homepage-master/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
