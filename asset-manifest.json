@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.c77b14e2.css",
-    "main.js": "/static/js/main.683a458a.js",
-    "static/media/desktop-image-hero-1.jpg": "/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
-    "static/media/desktop-image-hero-3.jpg": "/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
-    "static/media/desktop-image-hero-2.jpg": "/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
-    "static/media/mobile-image-hero-1.jpg": "/static/media/mobile-image-hero-1.5de3d1472db703fb2f8a.jpg",
-    "static/media/mobile-image-hero-2.jpg": "/static/media/mobile-image-hero-2.51db290a00388a5a0bea.jpg",
-    "static/media/image-about-dark.jpg": "/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
-    "static/media/mobile-image-hero-3.jpg": "/static/media/mobile-image-hero-3.601d0f37f7ff5e62008c.jpg",
-    "index.html": "/index.html",
-    "main.c77b14e2.css.map": "/static/css/main.c77b14e2.css.map",
-    "main.683a458a.js.map": "/static/js/main.683a458a.js.map"
+    "main.css": "/github.io/frontend-mentor-room-homepage-master/static/css/main.0fe01fab.css",
+    "main.js": "/github.io/frontend-mentor-room-homepage-master/static/js/main.31e0e937.js",
+    "static/media/desktop-image-hero-1.jpg": "/github.io/frontend-mentor-room-homepage-master/static/media/desktop-image-hero-1.91901d0d47ea68db9434.jpg",
+    "static/media/desktop-image-hero-3.jpg": "/github.io/frontend-mentor-room-homepage-master/static/media/desktop-image-hero-3.05fd679aa0d31e01c176.jpg",
+    "static/media/desktop-image-hero-2.jpg": "/github.io/frontend-mentor-room-homepage-master/static/media/desktop-image-hero-2.9d35405672f4fca67945.jpg",
+    "static/media/mobile-image-hero-1.jpg": "/github.io/frontend-mentor-room-homepage-master/static/media/mobile-image-hero-1.5de3d1472db703fb2f8a.jpg",
+    "static/media/mobile-image-hero-2.jpg": "/github.io/frontend-mentor-room-homepage-master/static/media/mobile-image-hero-2.51db290a00388a5a0bea.jpg",
+    "static/media/image-about-dark.jpg": "/github.io/frontend-mentor-room-homepage-master/static/media/image-about-dark.329bbc446c27ddf69d0f.jpg",
+    "static/media/mobile-image-hero-3.jpg": "/github.io/frontend-mentor-room-homepage-master/static/media/mobile-image-hero-3.601d0f37f7ff5e62008c.jpg",
+    "index.html": "/github.io/frontend-mentor-room-homepage-master/index.html",
+    "main.0fe01fab.css.map": "/github.io/frontend-mentor-room-homepage-master/static/css/main.0fe01fab.css.map",
+    "main.31e0e937.js.map": "/github.io/frontend-mentor-room-homepage-master/static/js/main.31e0e937.js.map"
   },
   "entrypoints": [
-    "static/css/main.c77b14e2.css",
-    "static/js/main.683a458a.js"
+    "static/css/main.0fe01fab.css",
+    "static/js/main.31e0e937.js"
   ]
 }
