@@ -1,0 +1,89 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: gray;
+  font-family: "League Spartan", sans-serif;
+}
+
+.App {
+  height: 100vh;
+  width: 100%;
+}
+
+.navbar {
+  list-style: none;
+  min-width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  text-align: left;
+  padding: 2rem 3rem;
+  position: absolute;
+  z-index: 99;
+}
+
+.navbar__header {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+  gap: 5rem;
+}
+
+.navbar__list__link {
+  text-decoration: none;
+  color: white;
+  gap: 5rem;
+  display: inline-block;
+  margin: 1rem;
+  margin-left: 2;
+}
+
+.navbar__list__link:hover {
+  border-bottom: white 2px solid;
+}
+
+.arrow {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  position: absolute;
+  height: 3rem;
+  width: 8rem;
+}
+
+.arrow__container__right {
+  background-color: black;
+  background-size: cover;
+  height: 100%;
+  width: 50%;
+  color: white;
+  padding: 6px;
+}
+
+.arrow__container__left {
+  background-color: black;
+  background-size: cover;
+  height: 100%;
+  width: 50%;
+  color: white;
+  padding: 6px;
+}
+
+.arrow__container__right:hover {
+  background-color: #454545;
+}
+
+.arrow__container__left:hover {
+  background-color: #454545;
+}
+/*# sourceMappingURL=input.css.map */
