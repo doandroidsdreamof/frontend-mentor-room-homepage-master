@@ -1,4 +1,4 @@
-# Frontend Mentor - Loopstudios landing page solution
+# Frontend Mentor - Room Homepage Solution
 
 ## Table of contents
 
