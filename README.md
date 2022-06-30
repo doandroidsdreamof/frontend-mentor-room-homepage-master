@@ -1,4 +1,4 @@
-# Frontend Mentor - Loopstudios landing page solution
+# Frontend Mentor - Room Homepage Solution
 
 ## Table of contents
 
@@ -23,11 +23,8 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - Mobile-first workflow
-- GSAP(https://greensock.com/) - JS library
 - JavaScript
-- Tailwindcss (https://tailwindcss.com/) - CSS framework
 - React (https://reactjs.org/)
 
