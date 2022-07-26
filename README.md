@@ -4,7 +4,6 @@
 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
 
 ### The challenge
